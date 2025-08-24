@@ -1,6 +1,6 @@
 # comp10-coursework
 
-## Student Grade Management Program (G-15)
+## Student Grade Management Program (Group-15)
 
 The **Student Management Portal** is a web-based application designed to streamline the management of modules, students, and grades. Built with **Spring Boot**, **React**, and **Material-UI**, this application provides a responsive, user-friendly interface with features like theme toggling and scalable components.
 
@@ -40,3 +40,9 @@ The **Student Management Portal** is a web-based application designed to streaml
 ### Backend
 - **Spring Boot**: Backend API services for managing data.
 - **H2 Database**: Lightweight, in-memory database for development purposes.
+
+---
+
+## Notes
+
+Made in collaboration with [Mouid Khan](https://github.com/mouid1016) and [Nayeem Khan](https://github.com/NayeemKhan05).
